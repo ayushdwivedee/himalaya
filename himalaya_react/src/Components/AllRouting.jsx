@@ -27,11 +27,8 @@ const AllRouting = () => {
       />
       <Route path="/login" element={<Login />} />
 
-      <Route path="/oral-care" element={<OralCare />} />
-      <Route path="/personal-care" element={<PersonalCare />} />
       <Route path="/collections" element={<Shop />} />
       <Route path="/store-locator" element={<StoreLocator />} />
-      <Route path="/supplements" element={<Supplements />} />
     </Routes>
   );
 };

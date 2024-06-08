@@ -120,7 +120,7 @@
       "title": "Triphala Tablets",
       "description": "Triphala is a traditional Ayurvedic formula known for its digestive benefits. Himalaya’s Triphala Tablets provide a natural way to support bowel regularity and overall digestive health...",
       "price": 18.99,
-      "quantity": 4
+      "quantity": 5
     },
     {
       "id": "2",
@@ -129,14 +129,6 @@
       "description": "Neem supports skin health and detoxification. Himalaya’s Neem Tablets offer pure and potent neem leaf extract for daily cleansing and rejuvenation...",
       "price": 19.99,
       "quantity": 2
-    },
-    {
-      "id": "1",
-      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-organic-gummies-155179_1024x.jpg?v=1682635255",
-      "title": "Ashwagandha Organic Gummies",
-      "description": "Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress...",
-      "price": 23.99,
-      "quantity": 1
     }
   ]
 }

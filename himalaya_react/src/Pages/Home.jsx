@@ -16,7 +16,7 @@ import HCard from "../Components/HCard";
 const Home = () => {
   return (
     <Container m={0} mt={5} p={0}>
-      <Box w="1688px" h="600px">
+      <Box w="2026px" h="600px">
         <Image
           src="https://himalayausa.com/cdn/shop/files/Berberine_2_1280x.jpg"
           w="100%"
@@ -40,7 +40,7 @@ const Home = () => {
           <Text fontSize="2xl" color="white">
             Potent Plant-Based Support for Daily Wellness.
           </Text>
-          <Link to="/supplements">
+          <Link to="/collections">
             <Button
               backgroundColor="#48CAB2"
               color="white"
@@ -59,7 +59,7 @@ const Home = () => {
       <Heading
         mt={-200}
         textAlign="center"
-        ml={600}
+        ml={700}
         mb={10}
         fontWeight={500}
         as="h2"
@@ -68,12 +68,12 @@ const Home = () => {
         Shop By Category
       </Heading>
 
-      <HomeCard />
+      <HomeCard  />
       
       <Heading
          mt={100}
         textAlign="center"
-        ml={600}
+        ml={700}
         mb={10}
         fontWeight={500}
         as="h2"

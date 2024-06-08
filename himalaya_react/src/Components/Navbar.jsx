@@ -58,7 +58,7 @@ const Navbar = () => {
                       <CiUser />
                     </MenuButton>
                     <MenuList w="100px" fontSize="18px">
-                       <MenuItem>{isAuthenticated ?  <Button onClick={Logout}>Logout</Button> :<Link to="/login">Sign in</Link>} </MenuItem> 
+                       <MenuItem>{isAuthenticated ?  <Box onClick={Logout}>Logout</Box> :<Link to="/login">Sign in</Link>} </MenuItem> 
                       <MenuItem>Register</MenuItem>
                       <MenuItem>Checkout</MenuItem>
                       

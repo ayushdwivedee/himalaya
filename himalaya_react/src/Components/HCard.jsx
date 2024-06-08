@@ -8,7 +8,7 @@ const HCard = () => {
     mt="100px"
    bg=" #F7F8FA"
     w="1300px"
-    ml="190px"
+    ml="350px"
     direction={{ base: 'column', sm: 'row' }}
     overflow='hidden'
     variant='outline'

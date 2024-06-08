@@ -14,7 +14,7 @@ const HomeCard = () => {
   return (
     <SimpleGrid
       spacing={4}
-      ml="220px"
+      ml="380px"
       templateColumns="repeat(3, minmax(400px, 1fr))"
     >
       <Card>
