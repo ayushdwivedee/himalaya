@@ -115,28 +115,20 @@
   ],
   "cart": [
     {
-      "id": "1",
-      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-organic-gummies-155179_1024x.jpg?v=1682635255",
-      "title": "Ashwagandha Organic Gummies",
-      "description": "Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress...",
-      "price": 23.99,
-      "quantity": 1
-    },
-    {
       "id": "2",
       "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-focus-179810_1024x.png?v=1676344124",
       "title": "Neem Tablets",
       "description": "Neem supports skin health and detoxification. Himalaya’s Neem Tablets offer pure and potent neem leaf extract for daily cleansing and rejuvenation...",
       "price": 19.99,
-      "quantity": 1
+      "quantity": 3
     },
     {
-      "id": "14",
-      "image": "https://himalayausa.com/cdn/shop/products/comfortcleanse-636861_1024x.png?v=1660858348",
-      "title": "Ashwagandha Kids Gummies",
-      "description": "Ashwagandha Kids Gummies are designed to support stress and energy in children. Himalaya’s Ashwagandha Kids Gummies offer a tasty way to promote calm and focus...",
-      "price": 23.99,
-      "quantity": 1
+      "id": "4",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-relax-141686_1024x.png?v=1666136636",
+      "title": "Moringa Tablets",
+      "description": "Moringa is packed with vitamins, minerals, and antioxidants. Himalaya’s Moringa Tablets offer a convenient way to nourish your body with essential nutrients...",
+      "price": 22.99,
+      "quantity": 2
     }
   ]
 }
