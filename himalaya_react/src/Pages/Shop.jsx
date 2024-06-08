@@ -16,9 +16,9 @@ import {
   Input,
   InputGroup,
   InputRightElement,
-  IconButton,
+   
 } from "@chakra-ui/react";
-import { CloseIcon, SearchIcon } from "@chakra-ui/icons";
+import {   SearchIcon } from "@chakra-ui/icons";
 
 const Shop = () => {
   const [sortVal, setSortVal] = useState("");
@@ -86,7 +86,7 @@ const Shop = () => {
   loading && <Loading />;
   return (
     <Container m={0} p={0} mt={10}>
-      <Box width="100%" p={4} ml="800px"> 
+      <Box width="100%" p={4} ml="600px"> 
         <InputGroup>
           <Input
           
@@ -138,7 +138,7 @@ const Shop = () => {
           )}
         </Box>
       </Box>
-      <Box w="1688px">
+      <Box w="1500px">
         <Heading textAlign="center" fontWeight={600}>
           Products
         </Heading>
