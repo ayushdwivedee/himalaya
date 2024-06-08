@@ -8,13 +8,13 @@ import {
   VStack,
   Button, CardFooter,
 } from "@chakra-ui/react";
-import axios from "axios";
-import React from "react";
+import axios from "axios"
+import React from "react"
 
 const ProductCard = ({ id, image, title, description, price, button }) => {
   const handleAddToCart = async () => {
     try {
-      const product = { id, image, title, description, price, quantity: 1 };
+      const product = { id, image, title, description, price, quantity: 1};
       await axios.post("http://localhost:3000/cart", product);
       alert("Product added to cart!");
     } catch (error) {
