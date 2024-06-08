@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-organic-gummies-155179_1024x.jpg?v=1682635255",
+      "title": "Ashwagandha Organic Gummies",
+      "description": "Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress...",
+      "price": 23.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "2",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-focus-179810_1024x.png?v=1676344124",
+      "title": "Neem Tablets",
+      "description": "Neem supports skin health and detoxification. Himalaya’s Neem Tablets offer pure and potent neem leaf extract for daily cleansing and rejuvenation...",
+      "price": 19.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "3",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-immune-219682_1024x.jpg?v=1676344124",
+      "title": "Triphala Tablets",
+      "description": "Triphala is a traditional Ayurvedic formula known for its digestive benefits. Himalaya’s Triphala Tablets provide a natural way to support bowel regularity and overall digestive health...",
+      "price": 18.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "4",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-relax-141686_1024x.png?v=1666136636",
+      "title": "Moringa Tablets",
+      "description": "Moringa is packed with vitamins, minerals, and antioxidants. Himalaya’s Moringa Tablets offer a convenient way to nourish your body with essential nutrients...",
+      "price": 22.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "5",
+      "image": "https://himalayausa.com/cdn/shop/products/bamboo-sea-salt-whitening-antiplaque-toothpaste-178691_1024x.png?v=1676517254",
+      "title": "Turmeric Tablets",
+      "description": "Turmeric is renowned for its anti-inflammatory properties. Himalaya’s Turmeric Tablets provide a powerful dose of curcuminoids to support joint and overall health...",
+      "price": 24.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "6",
+      "image": "https://himalayausa.com/cdn/shop/products/berberine-828786_1024x.png?v=1676344125",
+      "title": "Guduchi Tablets",
+      "description": "Guduchi is known for its immune-boosting properties. Himalaya’s Guduchi Tablets help support immune function and overall wellness...",
+      "price": 21.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "7",
+      "image": "https://himalayausa.com/cdn/shop/products/body-bar-purifying-neem-turmeric-680817_1024x.png?v=1702583208",
+      "title": "Amla Tablets",
+      "description": "Amla is rich in Vitamin C and antioxidants. Himalaya’s Amla Tablets provide natural support for immune health and skin rejuvenation...",
+      "price": 20.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "8",
+      "image": "https://himalayausa.com/cdn/shop/products/body-bar-refreshing-lavender-rosemary-981831_1024x.png?v=1702500343",
+      "title": "Brahmi Tablets",
+      "description": "Brahmi is traditionally used to enhance cognitive function and memory. Himalaya’s Brahmi Tablets support mental clarity and brain health...",
+      "price": 19.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "9",
+      "image": "https://himalayausa.com/cdn/shop/products/boswellia-327756_1024x.png?v=1666136643",
+      "title": "Shatavari Tablets",
+      "description": "Shatavari is known for its adaptogenic and reproductive health benefits. Himalaya’s Shatavari Tablets support hormonal balance and overall vitality...",
+      "price": 22.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "10",
+      "image": "https://himalayausa.com/cdn/shop/products/charcoal-black-seed-oil-whitening-antiplaque-toothpaste-894544_1024x.png?v=1676517254",
+      "title": "Ginger Tablets",
+      "description": "Ginger is renowned for its digestive and anti-inflammatory properties. Himalaya’s Ginger Tablets offer natural support for digestive health and joint comfort...",
+      "price": 18.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "11",
+      "image": "https://himalayausa.com/cdn/shop/products/chest-balm-pm-608504_1024x.png?v=1702583207",
+      "title": "Boswellia Tablets",
+      "description": "Boswellia is traditionally used for joint health. Himalaya’s Boswellia Tablets provide natural support for joint flexibility and comfort...",
+      "price": 21.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "12",
+      "image": "https://himalayausa.com/cdn/shop/products/chyavanprash-105275_1024x.png?v=1660858328",
+      "title": "Holy Basil Tablets",
+      "description": "Holy Basil is known for its adaptogenic and stress-relieving properties. Himalaya’s Holy Basil Tablets support a calm mind and balanced body...",
+      "price": 20.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "13",
+      "image": "https://himalayausa.com/cdn/shop/products/face-scrub-exfoliating-walnut-wood-apple-757891_1024x.png?v=1702583207",
+      "title": "Amla C Plus Gummies",
+      "description": "Amla C Plus Gummies are a delicious way to get your daily dose of Vitamin C. Himalaya’s Amla C Plus Gummies support immune health and skin vitality...",
+      "price": 24.99,
+      "button": "ADD TO CART"
+    },
+    {
+      "id": "14",
+      "image": "https://himalayausa.com/cdn/shop/products/comfortcleanse-636861_1024x.png?v=1660858348",
+      "title": "Ashwagandha Kids Gummies",
+      "description": "Ashwagandha Kids Gummies are designed to support stress and energy in children. Himalaya’s Ashwagandha Kids Gummies offer a tasty way to promote calm and focus...",
+      "price": 23.99,
+      "button": "ADD TO CART"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-immune-219682_1024x.jpg?v=1676344124",
+      "title": "Triphala Tablets",
+      "description": "Triphala is a traditional Ayurvedic formula known for its digestive benefits. Himalaya’s Triphala Tablets provide a natural way to support bowel regularity and overall digestive health...",
+      "price": 18.99,
+      "quantity": 4
+    },
+    {
+      "id": "2",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-focus-179810_1024x.png?v=1676344124",
+      "title": "Neem Tablets",
+      "description": "Neem supports skin health and detoxification. Himalaya’s Neem Tablets offer pure and potent neem leaf extract for daily cleansing and rejuvenation...",
+      "price": 19.99,
+      "quantity": 2
+    },
+    {
+      "id": "1",
+      "image": "https://himalayausa.com/cdn/shop/products/ashwagandha-organic-gummies-155179_1024x.jpg?v=1682635255",
+      "title": "Ashwagandha Organic Gummies",
+      "description": "Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress...",
+      "price": 23.99,
+      "quantity": 1
+    }
+  ]
+}
