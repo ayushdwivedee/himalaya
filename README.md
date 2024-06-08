@@ -50,31 +50,38 @@ Here’s how you can get started with the Himalaya Store Project:
 
 - **Path:** `/`
 - **Description:** The home page showcases a featured product with an image, description, and a "Shop Now" button. It also displays categories and best sellers.
+![Home Page](https://github.com/ayushdwivedee/himalaya/assets/140685778/b87db82b-3e7e-426b-91e8-2f92c423e26f)
 
 ### About Page
 
 - **Path:** `/about`
 - **Description:** The about page provides information about the company's story, roots, process, science, and initiatives through different tabs.
+![About Page](https://github.com/ayushdwivedee/himalaya/assets/140685778/eb7a06a9-f022-45a1-82cc-d0dcce6e425a)
 
 ### Cart Page
 
 - **Path:** `/cart`
 - **Description:** The cart page displays items added to the shopping cart, allows quantity adjustments, and provides options to clear or update the cart. It shows the subtotal and grand total of the items in the cart.
+![cart](https://github.com/ayushdwivedee/himalaya/assets/140685778/c97e5e83-12f9-4f89-a0ec-43efe3af269f)
 
 ### Login Page
 
 - **Path:** `/login`
 - **Description:** The login page allows users to enter their email and password to log in. Successful login redirects to the home page.
+![login](https://github.com/ayushdwivedee/himalaya/assets/140685778/1b1cf931-61f6-4fec-b68d-d96c694942d5)
 
 ### Shop Page
 
 - **Path:** `/collections`
 - **Description:** The shop page displays a list of products. Users can sort products by price (low to high or high to low). Each product is displayed using the `ProductCard` component.
+- ![Shop Page](https://github.com/ayushdwivedee/himalaya/assets/140685778/9dddbf9e-82e7-4e9e-b46f-bfaff8dc90f6)
+
 
 ### Store Locator Page
 
 - **Path:** `/store-locator`
 - **Description:** The store locator page allows users to search for nearby stores using a zip code or address. It displays search results and a map with store locations.
+![store](https://github.com/ayushdwivedee/himalaya/assets/140685778/5697da0a-ff8e-45e0-882c-72cd64835674)
 
 ### Navbar
 
