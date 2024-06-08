@@ -1,6 +1,3 @@
- Sure! Here is a simple and clear README file that should be understandable even by a 10-year-old. It provides an overview of the project, instructions on how to set it up, and a brief explanation of each component and page:
-
----
 
 # 🌿 Himalaya Store Project
 
