@@ -3,6 +3,10 @@
 
 Welcome to the Himalaya Store Project! This project is a simple online store where you can buy Himalaya products, check out different categories, and learn more about the company.
 
+## Before starting to see this project, start json-server in your local PC by running this command :
+ ```bash
+  json-server --watch db.json
+   ```
 ## 📖 Table of Contents
 
 1. [Introduction](#introduction)
